@@ -27,8 +27,6 @@ BlueJ was developed to support the learning and teaching of object-oriented prog
 
 8.boolean.
 
-# Example |
-             
-![CompileSuccess](https://user-images.githubusercontent.com/83109689/126040288-2fb0e6ac-55a0-4111-a86b-39e54021b611.png)
+# Example:=>  ![CompileSuccess](https://user-images.githubusercontent.com/83109689/126040288-2fb0e6ac-55a0-4111-a86b-39e54021b611.png)
 
 
