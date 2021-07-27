@@ -9,7 +9,7 @@ The Java programming language was developed by Sun Microsystems in the early 199
 # What is Blue-J
 BlueJ is an integrated development environment (IDE) for the Java programming language, developed mainly for educational purposes, but also suitable for small-scale software development. It runs with the help of JDK (Java Development Kit).
 
-BlueJ was developed to support the learning and teaching of object-oriented programming, and its design differs from other development environments as a result.[2] The main screen graphically shows the class structure of an application under development (in a UML-like diagram), and objects can be interactively created and tested. This interaction facility, combined with a clean, simple user interface, allows easy experimentation with objects under development. Object-oriented concepts (classes, objects, communication through method calls) are represented visually and in its interaction design in the interface.
+BlueJ was developed to support the learning and teaching of object-oriented programming, and its design differs from other development environments as a result. The main screen graphically shows the class structure of an application under development (in a UML-like diagram), and objects can be interactively created and tested. This interaction facility, combined with a clean, simple user interface, allows easy experimentation with objects under development. Object-oriented concepts (classes, objects, communication through method calls) are represented visually and in its interaction design in the interface.
 # Java defines the following eight primitive data types:
 1.char.
 
